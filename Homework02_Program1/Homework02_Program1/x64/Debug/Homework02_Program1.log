@@ -1,0 +1,15 @@
+﻿  Department.cpp
+  Employee.cpp
+F:\College\CIS250\Homework Assignments\Homework02\CIS250_Homework02_NicolaasDyk\Homework02_Program1\Homework02_Program1\Employee.cpp(23,69): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+  Holder.cpp
+F:\College\CIS250\Homework Assignments\Homework02\CIS250_Homework02_NicolaasDyk\Homework02_Program1\Homework02_Program1\Holder.cpp(55,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\College\CIS250\Homework Assignments\Homework02\CIS250_Homework02_NicolaasDyk\Homework02_Program1\Homework02_Program1\Holder.cpp(60,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\College\CIS250\Homework Assignments\Homework02\CIS250_Homework02_NicolaasDyk\Homework02_Program1\Homework02_Program1\Holder.cpp(65,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\College\CIS250\Homework Assignments\Homework02\CIS250_Homework02_NicolaasDyk\Homework02_Program1\Homework02_Program1\Holder.cpp(74,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\College\CIS250\Homework Assignments\Homework02\CIS250_Homework02_NicolaasDyk\Homework02_Program1\Homework02_Program1\Holder.cpp(79,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\College\CIS250\Homework Assignments\Homework02\CIS250_Homework02_NicolaasDyk\Homework02_Program1\Homework02_Program1\Holder.cpp(84,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\College\CIS250\Homework Assignments\Homework02\CIS250_Homework02_NicolaasDyk\Homework02_Program1\Homework02_Program1\Holder.cpp(93,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\College\CIS250\Homework Assignments\Homework02\CIS250_Homework02_NicolaasDyk\Homework02_Program1\Homework02_Program1\Holder.cpp(98,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\College\CIS250\Homework Assignments\Homework02\CIS250_Homework02_NicolaasDyk\Homework02_Program1\Homework02_Program1\Holder.cpp(107,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Homework02_Program1.vcxproj -> F:\College\CIS250\Homework Assignments\Homework02\CIS250_Homework02_NicolaasDyk\Homework02_Program1\x64\Debug\Homework02_Program1.exe
